@@ -1,3 +1,3 @@
 [submodule "wiki"]
 	path = wiki
-	url = https://github.com/dimaShin/notes-with-geo.wiki.git
+	url = git@github.com:dimaShin/notes-with-geo.wiki.git
