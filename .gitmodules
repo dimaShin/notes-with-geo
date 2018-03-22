@@ -1,3 +1,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:dimaShin/notes-with-geo.wiki.git
+[submodule "api"]
+	path = api
+	url = git@github.com:dimaShin/reminders-api.git
