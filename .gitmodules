@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:dimaShin/reminders-api.git
+[submodule "native-app"]
+	path = native-app
+	url = git@github.com:dimaShin/reminder-native-app.git
